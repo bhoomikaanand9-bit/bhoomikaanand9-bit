@@ -10,6 +10,13 @@ Hello! I'm Bhoomika Anand, a B.Tech student interested in technology, software d
 - ## Projects
 
 Currently working on academic projects and developing practical programming skills.
+
+## Learning Goals
+
+- Improve problem-solving skills
+- Build practical software projects
+- Learn modern development tools
+- Develop a professional portfolio
 <!--
 **bhoomikaanand9-bit/bhoomikaanand9-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
