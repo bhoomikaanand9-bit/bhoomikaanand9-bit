@@ -1,4 +1,4 @@
-## Hi there 👋
+Hello! I'm Bhoomika Anand, a B.Tech student interested in technology, software development, data, and user-focused digital solutions. I am currently developing my programming and problem-solving skills through academic projects and hands-on practice with tools such as Git, GitHub, Python, C, and web technologies. This repository documents my learning journey, projects, and progress as I build my skills for a career in the technology industry.
 
 <!--
 **bhoomikaanand9-bit/bhoomikaanand9-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
