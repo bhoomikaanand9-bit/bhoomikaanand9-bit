@@ -6,6 +6,10 @@ Hello! I'm Bhoomika Anand, a B.Tech student interested in technology, software d
 - Python
 - Git and GitHub
 - SQL
+
+- ## Projects
+
+Currently working on academic projects and developing practical programming skills.
 <!--
 **bhoomikaanand9-bit/bhoomikaanand9-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
