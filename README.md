@@ -17,10 +17,11 @@ Currently working on academic projects and developing practical programming skil
 - Build practical software projects
 - Learn modern development tools
 - Develop a professional portfolio
-<!--
 
-🌐 Portfolio
+
+Portfolio
 
 Check out my portfolio to explore my projects, skills, and work:
 
-👉 [Visit My Portfolio](https://bhoomikaanand9-bit.github.io/mywebsite-code/)
+[Visit My Portfolio]
+(https://bhoomikaanand9-bit.github.io/mywebsite-code/)
